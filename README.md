@@ -1,0 +1,2 @@
+# e-commerce
+ Este E-Commerce fue un proyecto encarado por un equipo de 4 personas incluyéndome, fue un proyecto de Plataforma 5 en el cual teníamos que codear desde cero un E-Commers profesional. Parte de mi trabajo fue encarar el back mas específicamente la parte de lógica de productos y rutas aun que a lo largo de las 2 semanas que llevo el proyecto con una buena comunicación y participación grupal todos estuvimos aportando nuestras ideas en la totalidad del proyecto.
